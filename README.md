@@ -11,3 +11,21 @@ Hopefully this is helpful to others.
 Below is the HTML version I'm referencing
 
 [HTML 5.1, W3C Recommendation, 1 November 2016](https://www.w3.org/TR/html51/semantics.html#semantics)
+
+**GLOBAL HTML ATTRIBUTES**
+
+* accesskey
+* class
+* contenteditable
+* contextmenu
+* dir
+* draggable
+* dropzone
+* hidden
+* id
+* lang
+* spellcheck
+* style
+* tabindex
+* title
+* translate
