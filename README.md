@@ -12,7 +12,8 @@ Below is the HTML version I'm referencing
 
 [HTML 5.1, W3C Recommendation, 1 November 2016](https://www.w3.org/TR/html51/semantics.html#semantics)
 
-Here is the Mozilla Developer Network HTML Element Reference
+Here is the Mozilla Developer Network HTML Element Reference<br>
+
 [HTML | MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 **GLOBAL HTML ATTRIBUTES**
